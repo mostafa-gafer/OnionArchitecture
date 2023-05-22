@@ -1,0 +1,4 @@
+2022-12-25 01:04:37.816 +02:00 [INF] Application Starting
+2022-12-25 02:05:51.127 +02:00 [INF] Application Starting
+2022-12-25 10:38:43.708 +02:00 [INF] Application Starting
+2022-12-25 18:57:51.831 +02:00 [INF] Application Starting

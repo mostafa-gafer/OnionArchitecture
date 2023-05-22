@@ -1,0 +1,135 @@
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.deps.json
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.dll
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.pdb
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfo.cs
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CopyComplete
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\refint\RefrigeratorMaintenanceCenter.Application.dll
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+C:\Users\DELL\source\repos\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\ref\RefrigeratorMaintenanceCenter.Application.dll
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.deps.json
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.dll
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.pdb
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.AssemblyReference.cache
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfoInputs.cache
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfo.cs
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CoreCompileInputs.cache
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CopyComplete
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\refint\RefrigeratorMaintenanceCenter.Application.dll
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+E:\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\ref\RefrigeratorMaintenanceCenter.Application.dll
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.deps.json
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.dll
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.pdb
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.AssemblyReference.cache
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfoInputs.cache
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfo.cs
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CoreCompileInputs.cache
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CopyComplete
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\refint\RefrigeratorMaintenanceCenter.Application.dll
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+E:\حسن\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\ref\RefrigeratorMaintenanceCenter.Application.dll
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.deps.json
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.dll
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.pdb
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.AssemblyReference.cache
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfoInputs.cache
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfo.cs
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CoreCompileInputs.cache
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CopyComplete
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\refint\RefrigeratorMaintenanceCenter.Application.dll
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+E:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\ref\RefrigeratorMaintenanceCenter.Application.dll
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.deps.json
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.dll
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.pdb
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.AssemblyReference.cache
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfoInputs.cache
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfo.cs
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CoreCompileInputs.cache
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CopyComplete
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\refint\RefrigeratorMaintenanceCenter.Application.dll
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+D:\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\ref\RefrigeratorMaintenanceCenter.Application.dll
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.deps.json
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.dll
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.pdb
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.AssemblyReference.cache
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfoInputs.cache
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfo.cs
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CoreCompileInputs.cache
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CopyComplete
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\refint\RefrigeratorMaintenanceCenter.Application.dll
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+F:\FreeLance Projects\test 2\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\ref\RefrigeratorMaintenanceCenter.Application.dll
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.deps.json
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.dll
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.pdb
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.AssemblyReference.cache
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfoInputs.cache
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfo.cs
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CoreCompileInputs.cache
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CopyComplete
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\refint\RefrigeratorMaintenanceCenter.Application.dll
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+F:\FreeLance Projects\RMC\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\ref\RefrigeratorMaintenanceCenter.Application.dll
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.deps.json
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.dll
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.pdb
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.AssemblyReference.cache
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.GeneratedMSBuildEditorConfig.editorconfig
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfoInputs.cache
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfo.cs
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CoreCompileInputs.cache
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CopyComplete
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\refint\RefrigeratorMaintenanceCenter.Application.dll
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+M:\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\ref\RefrigeratorMaintenanceCenter.Application.dll
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.deps.json
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.dll
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\bin\Debug\net6.0\RefrigeratorMaintenanceCenter.Domain.pdb
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.AssemblyReference.cache
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfoInputs.cache
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.AssemblyInfo.cs
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CoreCompileInputs.cache
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.csproj.CopyComplete
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.dll
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\refint\RefrigeratorMaintenanceCenter.Application.dll
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\RefrigeratorMaintenanceCenter.Application.pdb
+F:\Last Finish RMC-ONION\RMC-28-12-2022\RefrigeratorMaintenanceCenter\RefrigeratorMaintenanceCenter.Application\obj\Debug\net6.0\ref\RefrigeratorMaintenanceCenter.Application.dll

@@ -1,0 +1,2 @@
+2023-03-29 10:57:59.268 +02:00 [INF] Application Starting
+2023-03-29 11:44:17.647 +02:00 [INF] Application Starting

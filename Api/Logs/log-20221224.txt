@@ -1,0 +1,1 @@
+2022-12-24 23:34:36.771 +02:00 [INF] Application Starting
